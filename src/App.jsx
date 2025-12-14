@@ -1,5 +1,5 @@
 import "./App.css";
-import banner from "./assets/banner.jpg";
+import banner from "./assets/banner.jpg"; 
 
 function App() {
   return (
